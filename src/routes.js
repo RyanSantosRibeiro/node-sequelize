@@ -8,6 +8,7 @@ const ReportController = require('./controllers/ReportController');
 const routes = express.Router();
 
 routes.get('/users', UserController.index);
+routes.get('/users/:user_id', UserController.indexUnique);
 routes.post('/users', UserController.store);
 
 routes.get('/users/:user_id/addresses', AddressController.index);
