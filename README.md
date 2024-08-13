@@ -9,10 +9,6 @@
 <p align="center">Nesse vídeo abordo as comparações de SQL vs NoSQL, níveis de abstração de base de dados, migrations, configuração do Sequelize, relacionamentos 1:N, relacionamentos N:N, queries complexas e muito mais!</p>
 
 
-## 👨🏼‍💻 Instrutor
-
-- [Diego Fernandes](https://github.com/diego3g)
-
 ## 🚀 Tecnologias
 
 - ⚡ Express — A web framework for Node.js
@@ -42,11 +38,3 @@
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💖 by Rocketseat 👋 [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
